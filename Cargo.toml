@@ -1,5 +1,5 @@
 [package]
-name = "testanderson"
+name = "test_serial"
 version = "0.1.0"
 authors = ["Leoni Mota Loris <leoniloris1@hotmail.com>"]
 edition = "2018"

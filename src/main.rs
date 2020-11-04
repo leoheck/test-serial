@@ -46,7 +46,7 @@ fn main() {
     loop {
         for p in serial_ports.clone() {
             println!(
-                "\nTrying in {} ({})",
+                "Trying in {} ({})",
                 as_uart_label(&p.port_name),
                 p.port_name
             );
